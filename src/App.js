@@ -49,7 +49,7 @@ const App = () => {
 		<>
 			<div>
 				<section>
-					<h1>Adam's</h1>
+					<h1>Adam's Opinion</h1>
 					<p className='app-description'>
 						This is a simple app that accepts a food, cuisine or
 						ingredient and returns a list of wine pairings with descriptions.
